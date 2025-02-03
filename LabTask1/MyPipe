@@ -1,0 +1,2 @@
+Pipeline command: ls -A | wc -l
+       5

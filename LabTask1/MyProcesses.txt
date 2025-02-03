@@ -1,0 +1,6 @@
+PID  PPID COMM
+32720 32718 -zsh
+32718 32716 login
+32716 32715 /Users/sm/Library/Application Support/iTerm2/iTermServer-3.5.11 
+32715 1     /Applications/iTerm.app/Contents/MacOS/iTerm2
+1     0     /sbin/launchd
